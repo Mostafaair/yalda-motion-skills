@@ -1,20 +1,24 @@
 YALDA Motion Skills
 
+Copyright 2026 Mostafa Abbasi
+Project: YALDA Engineering
+
 Official Website: https://www.yaldaeng.ir
 Official Source Repository: https://github.com/Mostafaair/yalda-motion-skills
 
-YALDA Motion Skills is an initiative of YALDA Engineering.
+YALDA Motion Skills is an open-source project developed by Mostafa Abbasi under the YALDA Engineering name.
 
 The project includes:
 - YALDA Motion Designer
 - YALDA Motion Auditor
 
-The YALDA name, logos, and related brand identifiers are not licensed for independent commercial branding or for implying official endorsement.
+The project is licensed under the Apache License, Version 2.0. See the LICENSE file for the complete license terms.
 
-For official project information, documentation, and distribution, visit:
+Applicable copyright, license, attribution, and modification notices must be retained in accordance with the Apache License, Version 2.0.
+
+The YALDA names, logos, and related brand identifiers are not licensed for independent commercial branding or for implying official endorsement.
+
+Official project information and distribution:
 https://www.yaldaeng.ir
 
-Copyright holder: [To be confirmed before final licensing]
-Copyright year: 2026
-
-This notice does not modify or restrict the permissions granted under the project's applicable software license.
+This NOTICE file does not modify or restrict the rights granted under the Apache License, Version 2.0.
