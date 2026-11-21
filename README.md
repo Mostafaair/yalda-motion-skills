@@ -75,9 +75,26 @@ python -m unittest discover -s tests -q
 
 **This repository contains no proprietary R1 images, website/application source, secret credentials, downloadable Apple fonts or production server configuration.** Example JSON and browser logs in `assets/` are marked as synthetic or not owner-approved.
 
-## Publication and license status
+## License, Attribution and Official Website
 
-The public-source license is **not yet selected by the Owner**. This repository is technically organized for public review and GitHub upload, but publishing does **not** automatically grant permission to reuse or redistribute its contents. Before advertising it as open source, choose and add a suitable LICENSE, and review provenance of the original source and references. See [PUBLICATION_CHECKLIST.md](PUBLICATION_CHECKLIST.md). No license has been invented on the Owner's behalf.
+YALDA Motion Skills is developed by **Mostafa Abbasi** under the **YALDA Engineering** name.
+
+**Official Website:** https://www.yaldaeng.ir
+
+**Official Source:** https://github.com/Mostafaair/yalda-motion-skills
+
+This project is licensed under the **Apache License, Version 2.0**.
+
+See:
+- [LICENSE](LICENSE) — Open-source license.
+- [NOTICE](NOTICE) — Copyright and attribution information.
+- [Trademark Policy](TRADEMARKS.md) — YALDA brand and trademark guidelines.
+
+Personal, educational, research, and commercial use are permitted under the license terms.
+
+**If you find YALDA Motion Skills useful, please credit YALDA Engineering and link to our official website when practical.**
+
+Additional attribution and website linking beyond the license requirements are appreciated but voluntary.
 
 ## Documentation
 
