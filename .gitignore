@@ -1,0 +1,16 @@
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+*.key
+*.pem
+*.har
+!skills/yalda-motion-auditor/assets/sample-network-SYNTHETIC.har
+!.gitignore
+.yalda-motion-state/
+  
