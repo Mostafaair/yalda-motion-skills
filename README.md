@@ -5,6 +5,19 @@
 - `yalda-motion-designer`: plan/implement explicitly authorized scroll stories using Image-First Hybrid, JSON Visual Timeline, common-rail windows, caption relay, bounded momentum and budgeted checkpoints.
 - `yalda-motion-auditor`: independently audit motion/geometry, image integrity, media loading, frames, accessibility, mobile readability, browser performance and reproducibility. **Read-only by default.**
 
+## Official Project
+
+**YALDA Motion Skills**
+
+Official Website:
+https://www.yaldaeng.ir
+
+GitHub Repository:
+https://github.com/Mostafaair/yalda-motion-skills
+
+YALDA Motion Skills is developed as part of the
+YALDA Engineering initiative.
+
 ## Install
 
 This repository follows the [Agent Skills specification](https://agentskills.io/specification). Copy **each skill folder separately**, retaining its `SKILL.md`, `references/`, `scripts/`, `assets/`, and `agents/` directories, into a skill directory supported by your agent environment. For Codex-based environments, consult your product's current skill-loading documentation. An agent must explicitly **read** the relevant `SKILL.md` and references; merely attaching a ZIP does not prove skill usage.
