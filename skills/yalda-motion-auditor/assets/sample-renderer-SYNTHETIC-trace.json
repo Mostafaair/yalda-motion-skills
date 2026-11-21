@@ -1,0 +1,1 @@
+{"traceEvents":[{"name":"PipelineReporter","pid":1,"tid":2,"ph":"b","id2":{"local":"1"},"args":{"frame_reporter":{"state":"STATE_PRESENTED_ALL"}}},{"name":"PipelineReporter","pid":1,"tid":2,"ph":"e","id2":{"local":"1"},"args":{"frame_reporter":{"state":"STATE_DROPPED"}}},{"name":"RunTask","ph":"X","dur":78000},{"name":"Decode Image","ph":"X","dur":12000}]}

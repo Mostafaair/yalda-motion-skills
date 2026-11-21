@@ -1,0 +1,2 @@
+evidence_id,build_sha,claim,evidence_class,source_path_or_url,line_or_timestamp,device_browser,cache_network,confidence,status,priority,root_cause_status,notes
+E001,,Example only: frame index gap,INFERRED,,,not specified,not specified,low,NOT TESTED,P0,unverified,do not conclude dropped compositor frames

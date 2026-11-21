@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "elements": {
+    "elm1": {
+      "label": "Example element (not part of the approved live hero)",
+      "space": "stage",
+      "chapters": {
+        "00": {
+          "interpolation": "linear",
+          "keyframes": [
+            {
+              "p": 0.2,
+              "posX": 0,
+              "posY": 125,
+              "opacity": 1,
+              "scale": 1
+            },
+            {
+              "p": 0.3,
+              "posX": 100,
+              "posY": 136,
+              "opacity": 1,
+              "scale": 1
+            }
+          ]
+        }
+      }
+    },
+    "safe_window_in": {
+      "label": "EXAMPLE SAFE driver – not approved R4 movement",
+      "space": "stage",
+      "chapters": {
+        "00": {
+          "interpolation": "linear",
+          "keyframes": [
+            {
+              "p": 0,
+              "posX": 0,
+              "posY": 90,
+              "opacity": 1,
+              "scale": 1
+            },
+            {
+              "p": 1,
+              "posX": 0,
+              "posY": -800,
+              "opacity": 1,
+              "scale": 1
+            }
+          ],
+          "compact": [
+            {
+              "p": 0,
+              "posX": 0,
+              "posY": 360,
+              "opacity": 1,
+              "scale": 1
+            },
+            {
+              "p": 1,
+              "posX": 0,
+              "posY": -280,
+              "opacity": 1,
+              "scale": 1
+            }
+          ]
+        }
+      }
+    },
+    "text_example": {
+      "label": "Sample HTML caption",
+      "space": "stage",
+      "text": {
+        "lang": "en",
+        "content": "Import Foundation from CSI SAFE"
+      },
+      "chapters": {
+        "00": {
+          "interpolation": "smoothstep",
+          "keyframes": [
+            {
+              "p": 0,
+              "posX": -300,
+              "posY": 500,
+              "opacity": 0,
+              "scale": 1
+            },
+            {
+              "p": 0.25,
+              "posX": 500,
+              "posY": 500,
+              "opacity": 1,
+              "scale": 1
+            },
+            {
+              "p": 0.65,
+              "posX": 500,
+              "posY": 500,
+              "opacity": 1,
+              "scale": 1
+            },
+            {
+              "p": 0.95,
+              "posX": -300,
+              "posY": 500,
+              "opacity": 0,
+              "scale": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "YALDA Motion Designer"
+  short_description: "Plan image-faithful scroll heroes with editable timelines and guarded checkpoints"
+  default_prompt: "Design a source-faithful cinematic scroll hero using YALDA Visual Timeline, budgets and approval gates; do not modify or deploy without authorization."

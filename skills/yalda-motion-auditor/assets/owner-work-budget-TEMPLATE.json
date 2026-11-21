@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "owner": {
+    "approved": false,
+    "approval_id": null,
+    "notes": "DRAFT: Owner must fill limits and approve them. NULL means UNKNOWN/UNSET, not limitless."
+  },
+  "work_quota_visibility": "NOT_ACCESSIBLE",
+  "soft_stop_ratio": null,
+  "limits": {
+    "elapsed_minutes": null,
+    "model_tokens": null,
+    "tool_calls": null,
+    "render_jobs": null,
+    "external_cost_usd": null
+  }
+}

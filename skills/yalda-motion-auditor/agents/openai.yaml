@@ -1,0 +1,4 @@
+interface:
+  display_name: "YALDA Motion Auditor"
+  short_description: "Audit scroll-hero motion, media, accessibility and evidence without source edits"
+  default_prompt: "Audit this cinematic scroll-hero in read-only mode, separate measurements from hypotheses, and report visual, engineering, mobile and browser gates."

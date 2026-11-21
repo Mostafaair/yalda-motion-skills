@@ -1,0 +1,82 @@
+{
+  "schema": "yalda.motion-overlays.v1",
+  "owner_approved_text": false,
+  "overlays": [
+    {
+      "id": "below-scene-intro",
+      "mode": "below_media",
+      "interval": {
+        "p_start": 0,
+        "p_end": 1
+      },
+      "text": {
+        "fa": "توضیح نمونه زیر صحنه — متن نهایی توسط مالک تأیید شود.",
+        "en": "Example caption beneath the scene — Owner approval required."
+      },
+      "placement": {
+        "layout": "normal_document_flow"
+      },
+      "required_information": true,
+      "reduced_motion_behavior": "visible",
+      "html_layer": true
+    },
+    {
+      "id": "fixed-stage-note",
+      "mode": "within_stage_fixed",
+      "interval": {
+        "p_start": 0.22,
+        "p_end": 0.41
+      },
+      "text": {
+        "fa": "نمونه توضیح ثابت در محدودهٔ روایت",
+        "en": "Example stage-pinned note"
+      },
+      "placement": {
+        "coordinate_space": "story_stage",
+        "position": "block-end"
+      },
+      "required_information": false,
+      "reduced_motion_behavior": "static",
+      "html_layer": true
+    },
+    {
+      "id": "floating-note",
+      "mode": "floating_scroll",
+      "interval": {
+        "p_start": 0.44,
+        "p_end": 0.64
+      },
+      "text": {
+        "fa": "نمونه متن شناور وابسته به اسکرول",
+        "en": "Example scroll-bound floating text"
+      },
+      "placement": {
+        "coordinate_space": "story_stage",
+        "parallax_factor": 0.08,
+        "position": "inline-end"
+      },
+      "required_information": false,
+      "reduced_motion_behavior": "static",
+      "html_layer": true
+    },
+    {
+      "id": "neighbor-callout",
+      "mode": "scene_anchored",
+      "interval": {
+        "p_start": 0.52,
+        "p_end": 0.64
+      },
+      "text": {
+        "fa": "همسایه — برچسب نمونه",
+        "en": "Neighbor — example callout"
+      },
+      "placement": {
+        "coordinate_space": "scene_world",
+        "model_anchor_id": "N2"
+      },
+      "required_information": false,
+      "reduced_motion_behavior": "visible",
+      "html_layer": true
+    }
+  ]
+}
