@@ -4,6 +4,20 @@
 
 ساختار هر پوشه مطابق استاندارد [Agent Skills](https://agentskills.io/specification) است: فایل الزامی `SKILL.md` و پوشه‌های اختیاری `scripts/`، `references/`، `assets/` و `agents/`.
 
+## وب‌سایت رسمی پروژه
+
+**YALDA Motion Skills**
+
+وب‌سایت رسمی مهندسی یلدا:
+https://www.yaldaeng.ir
+
+مخزن رسمی سورس:
+https://github.com/Mostafaair/yalda-motion-skills
+
+YALDA Motion Skills شامل دو ابزار مستقل
+Designer و Auditor برای طراحی و ارزیابی
+انیمیشن‌های اسکرولی وب است.
+
 ## روش نصب
 
 پوشهٔ یکی از دو Skill را با همان نام و تمام زیرپوشه‌ها در مسیر Skills مورد پشتیبانی عامل خود کپی کنید. برای استفادهٔ مستقل از Designer و Auditor باید هر دو پوشه نصب شوند. راهنمای محصول Agent را برای مسیر نصب بررسی کنید. **صرف آپلود ZIP به معنی خوانده‌شدن یا اجرای Skill نیست.**
