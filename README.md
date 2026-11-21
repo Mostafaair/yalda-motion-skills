@@ -17,7 +17,21 @@ https://github.com/Mostafaair/yalda-motion-skills
 
 YALDA Motion Skills is developed as part of the
 YALDA Engineering initiative.
+## About YALDA Motion Skills
 
+**YALDA Motion Skills** is developed by **Mostafa Abbasi** under the **YALDA Engineering** name.
+
+**Official Website:** https://www.yaldaeng.ir
+
+**Official Source:** https://github.com/Mostafaair/yalda-motion-skills
+
+YALDA Motion Skills provides reusable tools and methodologies for designing and independently auditing cinematic scroll-driven web experiences.
+
+The project is licensed under the **Apache License, Version 2.0**.
+
+If you find YALDA Motion Skills useful, please credit **YALDA Engineering** and link to our official website when practical.
+
+Attribution and website linking beyond the applicable license requirements are appreciated but voluntary.
 ## Install
 
 This repository follows the [Agent Skills specification](https://agentskills.io/specification). Copy **each skill folder separately**, retaining its `SKILL.md`, `references/`, `scripts/`, `assets/`, and `agents/` directories, into a skill directory supported by your agent environment. For Codex-based environments, consult your product's current skill-loading documentation. An agent must explicitly **read** the relevant `SKILL.md` and references; merely attaching a ZIP does not prove skill usage.
