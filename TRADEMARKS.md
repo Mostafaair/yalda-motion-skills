@@ -1,19 +1,40 @@
 # YALDA Motion Skills — Trademark Policy
 
-**Official Website:** https://www.yaldaeng.ir
+**Project Author:** Mostafa Abbasi  
+**Project Organization:** YALDA Engineering  
+**Official Website:** https://www.yaldaeng.ir  
+**Official Repository:** https://github.com/Mostafaair/yalda-motion-skills
 
-YALDA Motion Skills is an initiative associated with YALDA Engineering.
+## 1. Project Identity
 
-The names **YALDA**, **YALDA Motion**, **YALDA Motion Designer**, and **YALDA Motion Auditor**, together with associated logos and visual identifiers, are subject to applicable trademark and intellectual property rights.
+YALDA Motion Skills is developed and maintained by Mostafa Abbasi under the YALDA Engineering name.
 
-The Apache License 2.0 does not grant general permission to use these names or marks to imply sponsorship, certification, endorsement, or official affiliation.
+The project includes YALDA Motion Designer and YALDA Motion Auditor.
 
-Users may make accurate, non-misleading references to YALDA Motion Skills and identify the origin of the software.
+## 2. Names and Brand Identity
 
-Modified or independently distributed versions must not falsely represent themselves as official YALDA releases.
+The YALDA name, YALDA Motion name, related product names, logos, and visual brand identifiers are subject to applicable trademark and intellectual property rights.
 
-For official project information and inquiries, visit:
+The Apache License, Version 2.0, does not grant general trademark rights.
+
+## 3. Permitted References
+
+Users may accurately identify YALDA Motion Skills as the original project and acknowledge Mostafa Abbasi and YALDA Engineering as its author and project organization.
+
+Accurate, non-misleading references to the project's original source are permitted.
+
+## 4. Restrictions
+
+Third parties must not falsely claim that modified or independently distributed versions are official YALDA releases.
+
+The YALDA brand must not be used to imply sponsorship, certification, endorsement, or official affiliation without appropriate authorization.
+
+## 5. Open-Source Rights
+
+This policy does not restrict copying, modification, redistribution, commercial use, or other rights granted under the Apache License, Version 2.0.
+
+## 6. Official Contact
+
+For official project information, releases, documentation, and brand inquiries:
 
 https://www.yaldaeng.ir
-
-This policy does not restrict the rights granted under the applicable open-source software license.
