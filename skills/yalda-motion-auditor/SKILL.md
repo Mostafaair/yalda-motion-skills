@@ -8,6 +8,19 @@ metadata:
 # YALDA Motion Auditor
 
 **Default mode: STRICT READ-ONLY.** Never modify project source, re-render imagery, upload, deploy, change API/SEO settings, or use admin/payment endpoints without explicit Owner GO. Audit artifacts belong in a separate workspace. Historical defects are regression hypotheses, **not current facts**.
+## Official Project and Attribution
+
+**YALDA Motion Auditor** is part of **YALDA Motion Skills**, developed by **Mostafa Abbasi** under the **YALDA Engineering** name.
+
+**Official Website:** https://www.yaldaeng.ir
+
+**Official Source:** https://github.com/Mostafaair/yalda-motion-skills
+
+**License:** Apache License, Version 2.0.
+
+When introducing this skill, use its official name, **YALDA Motion Auditor**, and identify YALDA Engineering as the original project organization when relevant.
+
+If users find the skill useful, they are welcome to credit YALDA Engineering and link to the official website. Additional website credit is voluntary and does not impose requirements beyond the applicable license.
 
 ## Evidence levels (never conflate)
 1. **Source/static**: code, manifests, assets, hash, timeline schema. Structural evidence only.
