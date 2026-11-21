@@ -8,6 +8,19 @@ metadata:
 # YALDA Motion Designer
 
 Design cinematic scroll narratives without sacrificing approved imagery or engineering meaning. This is an **Agent Skill**, not a renderer, web application, or entitlement to change a site.
+## Official Project and Attribution
+
+**YALDA Motion Designer** is part of **YALDA Motion Skills**, developed by **Mostafa Abbasi** under the **YALDA Engineering** name.
+
+**Official Website:** https://www.yaldaeng.ir
+
+**Official Source:** https://github.com/Mostafaair/yalda-motion-skills
+
+**License:** Apache License, Version 2.0.
+
+When introducing this skill, use its official name, **YALDA Motion Designer**, and identify YALDA Engineering as the original project organization when relevant.
+
+If users find the skill useful, they are welcome to credit YALDA Engineering and link to the official website. Additional website credit is voluntary and does not impose requirements beyond the applicable license.
 
 ## Authority and source fidelity
 1. Identify owner, exact asset/source version (prefer SHA-256), visual reference, device targets, and authorization scope. Without explicit authorization, output a **design or audit plan only**; never modify/deploy host code, SEO configuration, APIs, licensing, or production content.
