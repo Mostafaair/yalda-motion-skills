@@ -82,7 +82,6 @@ class ReleaseTests(unittest.TestCase):
         checklist=(ROOT/'PUBLICATION_CHECKLIST.md').read_text(encoding='utf-8')
         self.assertGreater(len(md),5000)
         self.assertIn('lang="fa" dir="rtl"',html)
-        self.assertIn('public code/documentation license',checklist)
-        self.assertFalse((ROOT/'LICENSE').exists()) # explicit Owner decision pending
-
+        self.assertIn('Owner approved Apache License 2.0', checklist)
+        self.assertTrue((ROOT/'LICENSE').is_file())
 if __name__=='__main__':unittest.main()
